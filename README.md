@@ -27,22 +27,26 @@
 
 <p>
   
-<details closed>  
-<summary><font face="Century Schoolbook"><strong><i>Sobre mim</i></strong></font></summary> 
+<details>  
+<summary><font face="Century Schoolbook"><i>Sobre mim</i></font></summary> 
 
 ---
 
-<font face="Century Schoolbook"><i>Olá! Sou Guilherme, apaixonado por tecnologia e em busca de conhecimento e aprimoramento.
+Olá! Sou Guilherme, apaixonado por tecnologia e em busca de conhecimento e aprimoramento.
 
 O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu primeiro curso realizado sobre a área de software. Agora estou realizando mais cursos, que são:
 
 • JavaScript e TypeScript
 
 • Inteligência Artificial e Machine Learning
-</i></font>
 
 </details>
 
 <details closed>
-<summary><font face="Century Schoolbook"><strong><i> Repositório em Destaque</i></strong></font> </summary> 
+<summary><font face="Century Schoolbook"><strong><i>Ferramentas</strong></summary>
+
+</details>
+
+<details closed>
+<summary><font face="Century Schoolbook"><strong><i>Repositório em Destaque</i></strong></font></summary> 
 </details>
