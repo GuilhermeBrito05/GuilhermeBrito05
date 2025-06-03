@@ -24,11 +24,9 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/guilherme-maioli-brito-5570b12aa/)
 
 </div>
-
-<p>
   
 <details>  
-<summary><font face="Century Schoolbook"><i>Sobre mim</i></font></summary> 
+<summary style="color: blue;"><font face="Century Schoolbook"><strong><i>Sobre mim</i></strong></font></summary>
 
 ---
 
@@ -39,6 +37,8 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 • JavaScript e TypeScript
 
 • Inteligência Artificial e Machine Learning
+<br>
+<br>
 
 </details>
 
