@@ -1,17 +1,17 @@
-<h1 align="center"> Guilherme Brito </h1>
+<h1 align="center"> Guilherme Maioli Brito </h1>
 
 <div align="center">
 <b><img width="12"
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
   src="https://skillicons.dev/icons?i=html"> HTML | <img width="12"
-  src="https://skillicons.dev/icons?i=c#"> C# | <img width="12" 
+  src="https://skillicons.dev/icons?i=cs"> C# | <img width="12" 
   src="https://skillicons.dev/icons?i=python"> Python | <img width="12"</br>
 <br>
 <br>
                                                           
 <blockquote>
   <p><i>
-      <font face="Century Schoolbook">Entusiasta da área da tecnologia, sempre buscando aprendizado. Sou estudante de Engenharia de Software em desenvolvimento, sou novo na área e busco desafios para aprimorar meus conhecimentos.
+      <font face="Century Schoolbook">Entusiasta da área da tecnologia, sempre buscando aprendizado. Sou estudante de Engenharia de Software em desenvolvimento, sou novo na área e busco oportunidades para aprimorar meus conhecimentos.
 </blockquote>
 </div>
 
@@ -32,11 +32,8 @@
 
 Olá! Sou Guilherme, apaixonado por tecnologia e em busca de conhecimento e aprimoramento.
 
-O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu primeiro curso realizado sobre a área de software. Agora estou realizando mais cursos, que são:
+O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu primeiro curso realizado sobre a área de software. Agora estou realizando mais cursos para aprimorar meus conhecimentos, junto com minha faculdade.
 
-• JavaScript e TypeScript
-
-• Inteligência Artificial e Machine Learning
 <br>
 <br>
 
@@ -45,6 +42,30 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <details closed>
 <summary><font face="Century Schoolbook"><strong><i>Ferramentas</strong></summary>
 
+#### • Linguagens
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-346fa0?style=flat&logo=python&logoColor=f7ca3e)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+
+#### • Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+#### • Editores
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+
+#### • Game Engines
+![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)
+![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+
+#### • Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 </details>
 
 <details closed>
