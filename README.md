@@ -50,3 +50,18 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <details closed>
 <summary><font face="Century Schoolbook"><strong><i>Repositório em Destaque</i></strong></font></summary> 
 </details>
+
+</details>
+
+<details closed>
+<summary><font face="Century Schoolbook"><strong><i>Competências</i></strong></font></summary> 
+  
+<br/>
+
+#### • Qualificação Acadêmica
+  
+---
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/anhanguera.jpg"/>]
+  
+</details>
