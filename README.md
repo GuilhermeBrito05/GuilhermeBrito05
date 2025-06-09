@@ -76,6 +76,36 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Anhanguera.jpg"/>]
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/zeek.jpg"/>](https://zeekcursos.com.br/)
+
+**Desenvolvimento de Jogos**\
+[**Zeek Cursos**](https://zeekcursos.com.br/)
+<details><summary>Certificados:</summary>
+<br>
+
+- [Desenvolvimento de Jogos]
+</details>
+
+<br>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Udemy.png"/>](https://www.udemy.com/pt/?srsltid=AfmBOooKUgRGuC2Jl0HRplX-Tm-dgXAdQkvjNRC2aKI9HjoqB0KBbASv)
+
+**Udemy**\
+[**Udemy**](https://www.udemy.com/pt/?srsltid=AfmBOooKUgRGuC2Jl0HRplX-Tm-dgXAdQkvjNRC2aKI9HjoqB0KBbASv)
+<details><summary>Certificados:</summary>
+JavaScript e TypeScript: Ainda cursando.
+
+Inteligência Artificial e Machine Learning: Ainda cursando.
+</details>
+
+<br>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Comunidade da arte.jpg"/>](https://comudaarte.com/)
+
+**Comunidade da Arte**\
+[**Comunidade da Arte**](https://comudaarte.com/)
+<details><summary>Certificados:</summary>
+Arte Digital: Cenario Fantasia: Ainda cursando.
+</details>
 
 </details>
