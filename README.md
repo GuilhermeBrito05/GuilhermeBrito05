@@ -99,12 +99,12 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/zeek.jpg"/>](https://zeekcursos.com.br/)
 
-**Desenvolvimento de Jogos**\
+**Desenvolvedor de Jogos**\
 [**Zeek Cursos**](https://zeekcursos.com.br/)
 <details><summary>Certificados:</summary>
 <br>
 
-- [Desenvolvimento de Jogos]
+- [Desenvolvedor de Jogos](https://drive.google.com/file/d/1Xh5I7H_-HEhIA6TR8239-bWUlceO6IGA/view?usp=sharing)
 </details>
 
 <br>
