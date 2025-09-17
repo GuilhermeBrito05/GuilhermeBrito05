@@ -69,8 +69,12 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 </details>
 
 <details closed>
-<summary><font face="Century Schoolbook"><strong><i>Repositório em Destaque</i></strong></font></summary> 
-</details>
+  
+<summary><strong>Repositórios Destaques</strong></summary>
+<br>
+<div align="center">
+
+
 
 </details>
 
@@ -104,7 +108,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <details><summary>Certificados:</summary>
 <br>
 
-- [Desenvolvedor de Jogos](https://drive.google.com/file/d/1Xh5I7H_-HEhIA6TR8239-bWUlceO6IGA/view?usp=sharing)
+- [Desenvolvedor de Games](https://drive.google.com/file/d/1Xh5I7H_-HEhIA6TR8239-bWUlceO6IGA/view?usp=sharing)
 </details>
 
 <br>
@@ -130,3 +134,11 @@ Arte Digital: Cenario Fantasia: Ainda cursando.
 </details>
 
 </details>
+
+  ---
+  
+<div>
+<a href="https://github.com/GuilhermeBrito05">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrito05&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrito05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
