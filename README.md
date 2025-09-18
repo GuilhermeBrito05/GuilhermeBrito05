@@ -89,7 +89,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Anhanguera.jpg"/>](https://www.anhanguera.com/)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Anhanguera.png"/>](https://www.anhanguera.com/)
 
 **Bacharelado em Engenharia de Software**\
 [**Anhanguera Educacional**](https://www.anhanguera.com/)
