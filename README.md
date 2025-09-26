@@ -56,6 +56,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 #### • Editores
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 #### • Game Engines
 ![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)
