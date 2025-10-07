@@ -101,7 +101,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 - [Introdução À Linguagem Python](https://drive.google.com/file/d/1D0By_mRXjM4PQd50ymS02xKXh8vCOp6d/view?usp=sharing)
 
-- [Intrudução À Análise De Dados Com Python](https://drive.google.com/file/d/1xqzPk0AqxEoz8CX8QsqYbmQUqjnpD1MY/view?usp=sharing)
+- [Introdução À Análise De Dados Com Python](https://drive.google.com/file/d/1xqzPk0AqxEoz8CX8QsqYbmQUqjnpD1MY/view?usp=sharing)
 
 - [Estruturas De Dados Em Python](https://drive.google.com/file/d/19IwZgJ7oIDLjS8v04PlppT1k4zuF2nRQ/view?usp=sharing)
 </details>
