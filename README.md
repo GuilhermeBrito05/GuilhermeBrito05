@@ -92,19 +92,21 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Anhanguera.png"/>](https://www.anhanguera.com/)
 
-**Bacharelado em Engenharia de Software**\
+**Anhanguera Educacional**\
 [**Anhanguera Educacional**](https://www.anhanguera.com/)
 <details><summary>Certificados:</summary>
-  Ainda não disponível, cursando 4° semestre.
+  <br>
   
-  Conclusão: 2028.
+- [Bacharelado em Engenharia de Software] Conclusão em 2028.
+
+- [Introdução À Linguagem Python](https://drive.google.com/file/d/1D0By_mRXjM4PQd50ymS02xKXh8vCOp6d/view?usp=sharing)
 </details>
 
 <br>
 
 [<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/zeek.jpg"/>](https://zeekcursos.com.br/)
 
-**Desenvolvedor de Jogos**\
+**Zeek Cursos**\
 [**Zeek Cursos**](https://zeekcursos.com.br/)
 <details><summary>Certificados:</summary>
 <br>
@@ -119,9 +121,9 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 **Udemy**\
 [**Udemy**](https://www.udemy.com/pt/?srsltid=AfmBOooKUgRGuC2Jl0HRplX-Tm-dgXAdQkvjNRC2aKI9HjoqB0KBbASv)
 <details><summary>Certificados:</summary>
-JavaScript e TypeScript: Ainda cursando.
+- [JavaScript e TypeScript] Ainda cursando.
 
-Inteligência Artificial e Machine Learning: Ainda cursando.
+- [Inteligência Artificial e Machine Learning] Ainda cursando.
 </details>
 
 <br>
