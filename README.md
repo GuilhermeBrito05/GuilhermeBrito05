@@ -107,6 +107,8 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 - [Língua Espanhola I](https://drive.google.com/file/d/1fPnjJYWB0SrIUPh_Q58JWE0O2ckli7po/view?usp=sharing)
 
+- [Língua Espanhola II](https://drive.google.com/file/d/17KGRqb4kYBGLac7Rtq7tOI364_UhL7Cv/view?usp=sharing)
+
 - [Língua Espanhola III](https://drive.google.com/file/d/1s9ZIvOjJq1IFhhy2DMFhNNacuDB3bt0w/view?usp=sharing)
 
 - [Língua Espanhola IV](https://drive.google.com/file/d/1AbELm9qrGKLvJap6m7kwdqib2NB8V6Az/view?usp=sharing)
