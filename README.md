@@ -105,6 +105,8 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 - [Estruturas De Dados Em Python](https://drive.google.com/file/d/19IwZgJ7oIDLjS8v04PlppT1k4zuF2nRQ/view?usp=sharing)
 
+- [Língua Espanhola I](https://drive.google.com/file/d/1fPnjJYWB0SrIUPh_Q58JWE0O2ckli7po/view?usp=sharing)
+
 - [Língua Espanhola III](https://drive.google.com/file/d/1s9ZIvOjJq1IFhhy2DMFhNNacuDB3bt0w/view?usp=sharing)
 
 - [Língua Espanhola IV](https://drive.google.com/file/d/1AbELm9qrGKLvJap6m7kwdqib2NB8V6Az/view?usp=sharing)
