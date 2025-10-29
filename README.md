@@ -5,7 +5,8 @@
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
   src="https://skillicons.dev/icons?i=html"> HTML | <img width="12"
   src="https://skillicons.dev/icons?i=cs"> C# | <img width="12" 
-  src="https://skillicons.dev/icons?i=python"> Python | <img width="12"</br>
+  src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
+  src="https://skillicons.dev/icons?i=java"> Java | <img width="12"</br> 
 <br>
 <br>
                                                           
