@@ -153,7 +153,12 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <br>
   
 - [Arte Digital](https://drive.google.com/file/d/1xTGNpzBIawNkegj87kkdH_EVNmRiR48b/view?usp=sharing)
-- Realismo Simplificado, ainda cursando.
+- [Traços de Anime](https://drive.google.com/file/d/1_RtEFFmxgHJMqCLWruPec9wqRAsOlzkK/view?usp=sharing)
+- [Realismo Simplificado](https://drive.google.com/file/d/1aaJkeYfr4ztbD7aXnOXL8Lk1g57ocm89/view?usp=sharing)
+- [Maestro da Pintura](https://drive.google.com/file/d/1Ye-jyaSGPdVI3AR941ducFWlvAZuLdml/view?usp=sharing)
+- [Anatomia em Prática](https://drive.google.com/file/d/17pP8GS0lopZEXSgPWLcXsROOhnN_gnEc/view?usp=sharing)
+- [Realismo com Lápis de Cor](https://drive.google.com/file/d/1_loGruMzYqWKkC8zjM99-a1Vk-NQKHcX/view?usp=sharing)
+- [Modelagem em 3D](https://drive.google.com/file/d/1az1FTe5Sq-b9FSZU6svlDIUz6GwDOqF5/view?usp=sharing)
 </details>
 
 </details>
