@@ -42,6 +42,45 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 </details>
 
 <details closed>
+<summary><strong>Estatísticas</strong></summary>
+<div align="center">
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-stats-alpha.vercel.app/api?username=GuilhermeBrito05&cc=000000&tc=ffffff&ic=8945d1&bc=fff" alt="Profile" width="52%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeBrito05&theme=midnight-purple&hide=text,git,other,xml&langs_count=6&range=last_7_days&custom_title=Desenvolvido%20essa%20semana:" alt="Wakatime Stats" width="46%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeBrito05&theme=midnight-purple&hide_border=false" alt="Streaks" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrito05&show_icons=true&theme=midnight-purple&custom_title=Status%20do%20GitHub:" alt="Github Stats" width="46%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuilhermeBrito05&theme=midnight-purple" alt="Top Language by Commit" width="40%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuilhermeBrito05&theme=midnight-purple" alt="Top Language by Repo" width="40%">
+</div>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrito05&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeBrito05&bg_color=red&color=bd93f9&line=78d6f6&point=fff&area=true&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es%20Mensais:&hide_border=true" alt="Top Contribuition Graph" width="95%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBrito05&theme=midnight-purple" alt="Details" width="60%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuilhermeBrito05&theme=midnight-purple&utcOffset=-3" alt="Commits" width="29%">
+</div>
+<br>
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=GuilhermeBrito05&theme=midnight-purple&margin-w=5&margin-h=5&column=-1" alt="Trophy" width="90%">
+</div>
+</a>
+<br>
+</div>
+</details>
+
+<details closed>
 <summary><font face="Century Schoolbook"><strong><i>Ferramentas</strong></summary>
 
 #### • Linguagens
@@ -179,9 +218,3 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 </details>
 
   ---
-  
-<div>
-<a href="https://github.com/GuilhermeBrito05">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrito05&layout=compact&langs_count=7&theme=midnight-purple"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrito05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
