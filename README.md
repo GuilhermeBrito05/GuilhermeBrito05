@@ -4,6 +4,7 @@
 <b><img width="12"
   src="https://skillicons.dev/icons?i=javascript"> JavaScript | <img width="12"
   src="https://skillicons.dev/icons?i=html"> HTML | <img width="12"
+  src="https://skillicons.dev/icons?i=css"> CSS | <img width="12"
   src="https://skillicons.dev/icons?i=cs"> C# | <img width="12" 
   src="https://skillicons.dev/icons?i=python"> Python | <img width="12"
   src="https://skillicons.dev/icons?i=java"> Java | <img width="12"</br> 
@@ -76,7 +77,11 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <br>
 <div align="center">
 
-
+<div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
+  <a href="https://github.com/GuilhermeBrito05/Sophos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBrito05&repo=Sophos&theme=midnight-purple" alt="Sophos" ></a>
+  <a href="https://github.com/GuilhermeBrito05/Jogo-da-Cobrinha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBrito05&repo=jogo-da-cobrinha&theme=midnight-purple" alt="Jogo da Cobrinha" ></a>
+</div>
+</div>
 
 </details>
 
@@ -177,6 +182,6 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
   
 <div>
 <a href="https://github.com/GuilhermeBrito05">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrito05&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrito05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBrito05&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBrito05&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
