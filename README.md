@@ -13,7 +13,7 @@
                                                           
 <blockquote>
   <p><i>
-      <font face="Century Schoolbook">Entusiasta da área da tecnologia, sempre buscando aprendizado. Sou estudante de Engenharia de Software em desenvolvimento, sou novo na área e busco oportunidades para aprimorar meus conhecimentos.
+      <font face="Century Schoolbook">Estudante de Engenharia de Software apaixonado por resolução de problemas complexos e automação.
 </blockquote>
 </div>
 
@@ -22,8 +22,8 @@
 <div align="center">
   
   [![Gmail](https://img.shields.io/badge/Gmail-lavender?logo=gmail)](mailto:guilhermemaiolibrito@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-lavender?logo=instagram&logoColor=000000)](https://www.instagram.com/brito.guilherme_maioli/?next=%2F)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/guilherme-maioli-brito-5570b12aa/)
+  [![Instagram](https://img.shields.io/badge/Instagram-lavender?logo=instagram&logoColor=000000)](https://www.instagram.com/guimaito/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-lavender?logo=linkedin&logoColor=0077B5)](www.linkedin.com/in/guilherme-maioli-brito)
 
 </div>
   
@@ -86,6 +86,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 #### • Linguagens
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![Java](https://custom-icon-badges.demolab.com/badge/-Java-a11015?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ead41c?style=flat&logo=javascript&logoColor=323330)
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-346fa0?style=flat&logo=python&logoColor=f7ca3e)
@@ -94,7 +95,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 #### • Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 
-#### • Editores
+#### • IDEs
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
@@ -104,6 +105,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+![GameMaker 2](https://img.shields.io/badge/GameMaker_Studio_2-000000.svg?style=flat&logo=gamemaker)
 
 #### • Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
@@ -112,7 +114,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 <details closed>
   
-<summary><strong>Repositórios Destaques</strong></summary>
+<summary><strong>Repositórios Em Destaques</strong></summary>
 <br>
 <div align="center">
 
@@ -142,7 +144,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <details><summary>Certificados:</summary>
   <br>
   
-- [Bacharelado em Engenharia de Software] Conclusão em 2028.
+- [Bacharelado em Engenharia de Software] Conclusão em 12/2027.
 
 - [Introdução À Linguagem Python](https://drive.google.com/file/d/1D0By_mRXjM4PQd50ymS02xKXh8vCOp6d/view?usp=sharing)
 
