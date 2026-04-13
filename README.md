@@ -214,7 +214,20 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 - [Realismo com Lápis de Cor](https://drive.google.com/file/d/1_loGruMzYqWKkC8zjM99-a1Vk-NQKHcX/view?usp=sharing)
   
 - [Modelagem em 3D](https://drive.google.com/file/d/1az1FTe5Sq-b9FSZU6svlDIUz6GwDOqF5/view?usp=sharing)
-  
+</details>
+
+<br>
+
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Open Academy.jpg"/>](https://www.santanderopenacademy.com/pt_br))
+
+**Santander Open Academy**\
+[**Santander Open Academy**](https://www.santanderopenacademy.com/pt_br)
+<details><summary>Certificados:</summary>
+<br>
+
+- [Python](https://drive.google.com/file/d/1iew98FlebQ52jpNHRyFtNJcj_OlvQMxz/view?usp=sharing)
+
+
 </details>
 
 </details>
