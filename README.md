@@ -218,7 +218,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 <br>
 
-[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Open Academy.png"/>](https://www.santanderopenacademy.com/pt_br)
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/Open academy.png"/>](https://www.santanderopenacademy.com/pt_br)
 
 **Santander Open Academy**\
 [**Santander Open Academy**](https://www.santanderopenacademy.com/pt_br)
