@@ -240,13 +240,14 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 - [Gen AI Fundamentos PT](https://drive.google.com/file/d/1uxl3zPyPG8VBgKzkr_GqtfLJaOMLsYCk/view?usp=sharing)
 
-</details>
-<details><summary>Insígnias:</summary>
-<br>
-
-
 
 </details>
 </details>
+
+<details closed>
+<summary><font face="Century Schoolbook"><strong><i>Insígnias</i></strong></font></summary> 
+
+<br><img width="150"
+src="imgs/GenAI Fundamentals.png">
 
   ---
