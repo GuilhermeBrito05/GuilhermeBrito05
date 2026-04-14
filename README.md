@@ -144,7 +144,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <details><summary>Certificados:</summary>
   <br>
   
-- [Bacharelado em Engenharia de Software] Conclusão em 12/2027.
+- [Bacharelado em Engenharia de Software] Conclusão em 06/2027.
 
 - [Introdução À Linguagem Python](https://drive.google.com/file/d/1D0By_mRXjM4PQd50ymS02xKXh8vCOp6d/view?usp=sharing)
 
