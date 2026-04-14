@@ -229,7 +229,18 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 
 
 </details>
+<br>
 
+[<img align="left" height="94px" width="94px" style="margin-right: 10px;" src="imgs/AWS Treina Brasil.png"/>](https://awstreinabrasil.com/#/)
+
+**AWS Treina Brasil**\
+[**AWS Treina Brasil**](https://awstreinabrasil.com/#/)
+<details><summary>Certificados:</summary>
+<br>
+
+- [Gen AI Fundamentos PT](https://drive.google.com/file/d/1uxl3zPyPG8VBgKzkr_GqtfLJaOMLsYCk/view?usp=sharing)
+
+</details>
 </details>
 
   ---
