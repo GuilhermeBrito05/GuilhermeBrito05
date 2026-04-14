@@ -241,6 +241,12 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 - [Gen AI Fundamentos PT](https://drive.google.com/file/d/1uxl3zPyPG8VBgKzkr_GqtfLJaOMLsYCk/view?usp=sharing)
 
 </details>
+<details><summary>Insígnias:</summary>
+<br>
+
+
+
+</details>
 </details>
 
   ---
