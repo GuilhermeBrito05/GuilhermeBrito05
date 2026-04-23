@@ -121,6 +121,7 @@ O que me motivou à entrar nessa área, foi a criação de jogos, que foi meu pr
 <div style="display: flex; align-items: flex-start; gap: 10px; justify-content: center;">
   <a href="https://github.com/GuilhermeBrito05/Sophos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBrito05&repo=Sophos&theme=midnight-purple" alt="Sophos" ></a>
   <a href="https://github.com/GuilhermeBrito05/Jogo-da-Cobrinha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBrito05&repo=jogo-da-cobrinha&theme=midnight-purple" alt="Jogo da Cobrinha" ></a>
+  <a href="https://github.com/GuilhermeBrito05/Jogo-da-Velha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeBrito05&repo=Jogo-da-Velha&theme=midnight-purple" alt="Jogo da Velha" ></a>
 </div>
 </div>
 
